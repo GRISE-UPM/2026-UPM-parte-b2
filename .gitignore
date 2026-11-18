@@ -1,0 +1,24 @@
+# Maven / compilacion
+target/
+dependency-reduced-pom.xml
+
+# Clases y empaquetados
+*.class
+*.jar
+
+# IDEs
+.idea/
+*.iml
+.vscode/
+.classpath
+.project
+.settings/
+nbproject/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Ficheros temporales y registros
+*.log
+~$*
